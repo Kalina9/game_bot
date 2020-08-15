@@ -28,4 +28,3 @@ let game = function () {
 }
 game()();
 console.dir(game())
-console.dir(repeat())
